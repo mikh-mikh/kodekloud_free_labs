@@ -7,32 +7,32 @@
 
 ### At basic level what is DNS used for ?
 
-to resolve domain name of an IP
-to resolve IP of a domain name +
-to connect a system with internet
-to enable networking on a system
+ - to resolve domain name of an IP
+ - to resolve IP of a domain name +++
+ - to connect a system with internet
+ - to enable networking on a system
 
 ### On a Linux based system, which of the following file can be used to point domains/hostnames to IPs locally?
 
-/etc/resolv.conf
-/etc/hosts +
-/etc/host
-/etc/hostname
+ - /etc/resolv.conf
+ - /etc/hosts +++
+ - /etc/host
+ - /etc/hostname
 
 ### On a Linux based system, which of the following file contains information about dns server i.e nameserver?
 
-/etc/resolve.conf
-/etc/hosts
-/etc/resolve.conf +
-/etc/hostname
+ - /etc/resolve.conf
+ - /etc/hosts
+ - /etc/resolv.conf +++
+ - /etc/hostname
 
 ### 
 On host01, if we have an entry for app01 in /etc/hosts file like 172.168.238.12 app01 
 and the DNS server which is used by host01 has 172.168.239.10 as app01's IP then which 
 IP host01 will pick for app01 as per priority.
 
-172.168.239.10
-172.168.238.12 +
+ - 172.168.239.10
+ - 172.168.238.12 +++
 
 because local recording has highest priority
 
@@ -69,16 +69,16 @@ ok
 
 ### In www.google.com, which is the top level domain?
 
-.com +
-www
-google
+ - .com +++
+ - www
+ - google
 
 ### Which of the following is a sub-domain example?
 
-google
-google.com
-maps.google.com +
-.com
+ - google
+ - google.com
+ - maps.google.com +
+ - .com
 
 ### On host01 we want to resolve name news to news.yahoo.com automatically without 
 hard coding its entry in /etc/hosts file. Add the required changes on host01.
@@ -90,8 +90,8 @@ search yahoo.com
 
 ### Which of the following command is used to query a hostname from a DNS server?
 
-ip addr
-nslookup +
-ifconfig
-netstat
+ - ip addr
+ - nslookup +
+ - ifconfig
+ - netstat
 
