@@ -1,2 +1,3 @@
-# kodekloud_free_labls
-my kodekloud free labs progress
+# kodekloud_free_labs
+my kodekloud free labs walkthrough
+конспектирование выполнения бесплатных лабораторных с kodekloud.com
