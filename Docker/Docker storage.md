@@ -41,10 +41,6 @@ Correct Password set
 aa33557a2be25ccdb77b0110b0e53de92653c1d493f23230b06ca82e5860c4ff
 ```
 
-пункт 3:
-
-дайте имя переменной а то соевые не поймут что пароль на root пользователя базы данных (не задав его контейнер завершит работу)
-
 ## 4 / 10
 We have just written some data into the database. To view the information we wrote, run the get-data.sh script available in the /root directory. How many customers data have been written to the database?
 
